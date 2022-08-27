@@ -17,3 +17,9 @@ The Agent/NPC attempts to escape the maze hundreds of times, learning better act
 
 ![shortest path](https://user-images.githubusercontent.com/87212855/187014055-9dfa8362-ad7c-4852-9198-c3066e1715a0.png)
 
+## Try it for yourself!
+
+Steps:
+* Download [Roblox Studio](https://www.roblox.com/create)
+* Download [pathfindingAi.zip](https://github.com/mGashaw/Pathfinding-AI/files/9437323/pathfindingAi.zip)
+* Either open or drag and drop file into a Roblox Studio
